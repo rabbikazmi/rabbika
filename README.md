@@ -2,4 +2,6 @@
 
 version 1 of my portfolio
 
-## tech stacks used : html, css, js
+## tech stacks used 
+
+html, css, js
